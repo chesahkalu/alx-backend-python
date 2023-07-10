@@ -1,7 +1,7 @@
 # Python-Backend: Variable (Type) Annotations
 
 ## About this project :mortar_board:
-- In this project I learnt and practiced:
+In this project I learnt and practiced:
 - Type annotations in Python 3
 - How you can use type annotations to specify function signatures and variable types
 - Duck typing
